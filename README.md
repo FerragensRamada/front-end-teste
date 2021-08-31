@@ -44,7 +44,8 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 Com esta API (https://developer.marvel.com/) em mãos, precisamos que você crie uma interface WEB contendo:
 
 1. Filtro para buscar os quadrinho (comics) por nome ou id
-2. Mostrar detalhes dos quadrinhos (comics) como: (title,description,ean,prices,images)
+2. Página com o resultado da busca
+3. Ao clicar no resultado da busca, exibir página com detalhes dos quadrinhos (comics) como: (title,description,ean,prices,images)
 
 Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
 
