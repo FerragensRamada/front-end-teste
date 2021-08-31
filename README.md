@@ -4,6 +4,9 @@ Desenvolvedor (a) Front-end RJ
 DESCRIÇÃO DA VAGA
 Temos a missão de manter e evoluir um ecossistema complexo com dezenas de aplicações diferentes rodando em ambiente de alta-escalabilidade e que precisam responder com máxima eficiência.
 
+![Image of ecossistema](https://github.com/FerragensRamada/front-end-teste/blob/main/ecossistema.png)
+
+
 RESPONSABILIDADES E ATRIBUIÇÕES
 * Desenvolver, evoluir e manter sistemas de alta escalabilidade, disponibilidade e performance, resilientes e orientados a eventos;
 * Colaborar com idéias que possam melhorar nossos sistemas e a vida dos nossos usuários;
