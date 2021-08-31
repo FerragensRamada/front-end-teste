@@ -2,15 +2,18 @@
 
 Que tal fazer parte de um novo time e ter a oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
-- Práticas ágeis como Kanban / Scrum
+- Práticas Scrum
 - AWS - Amazon Web Services
-- Escalabilidade
-- Micro services e aplicações distribuídas
 - Git
 - React Native
+- Lambda
 - GoLang
-- Laravel/Codeigniter
+- Python
+- Laravel, Codeigniter
+- React Native
 - Oracle e Mysql
+- Qlik Sense
+- Integrações com diferentes sistemas e plataformas
 
 ## VAGA PARA DESENVOLVEDOR(a) FRONT-END (RJ)
 
