@@ -1,5 +1,18 @@
 # front-end-teste
-Desenvolvedor (a) Front-end RJ
+
+Que tal fazer parte de um novo time e ter a oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
+
+- Práticas ágeis como Kanban / Scrum
+- AWS - Amazon Web Services
+- Escalabilidade
+- Micro services e aplicações distribuídas
+- Git
+- React Native
+- GoLang
+- Laravel/Codeigniter
+- Oracle e Mysql
+
+## VAGA PARA DESENVOLVEDOR(a) FRONT-END (RJ)
 
 DESCRIÇÃO DA VAGA
 Temos a missão de manter e evoluir um ecossistema complexo com dezenas de aplicações diferentes rodando em ambiente de alta-escalabilidade e que precisam responder com máxima eficiência.
@@ -19,4 +32,20 @@ REQUISITOS E QUALIFICAÇÕES
 - Experiência com frameworks como Laravel/Codeigniter
 - Conhecer o básico de versionamento com GIT
 - Saber como funciona o protocolo HTTP e o padrão REST
+
+
+## DESAFIO PROGRAMAÇÃO
+
+Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quiser, porém normalmente você não deve precisar de mais do que algumas horas.
+
+Com esta API (https://developer.marvel.com/) em mãos, precisamos que você crie uma interface WEB contendo:
+
+1. Filtro para buscar os quadrinho (comics) por nome ou id
+2. Mostrar detalhes dos quadrinhos (comics) como: (title,description,ean,prices,images)
+
+Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
+
+O layout e por sua conta, seja criativo. A arquitetura é por sua conta, seja esperto.
+
+Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
 
