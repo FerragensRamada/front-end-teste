@@ -39,17 +39,33 @@ REQUISITOS E QUALIFICAÇÕES
 
 ## DESAFIO PROGRAMAÇÃO
 
-Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quiser, porém normalmente você não deve precisar de mais do que algumas horas.
+A Marvel vem conquistando muitos fãs ao redor do mundo através de quadrinhos com personagens marcantes e superpoderosos. Você também faz parte desta legião de fãs? 
 
-Com esta API (https://developer.marvel.com/) em mãos, precisamos que você crie uma interface WEB contendo:
+De quadrinhos até livros coloridos que retratam as histórias de cada personagem. De desenhos a filmes em alta resolução. Todo fã da Marvel provavelmente espera ver coisas que representem suas paixões, seus personagens favoritos e amados.
 
-1. Filtro para buscar os quadrinho (comics) por nome ou id
-2. Página com o resultado da busca
-3. Ao clicar no resultado da busca, exibir página com detalhes dos quadrinhos (comics) como: (title,description,ean,prices,images)
+Às vezes um fã pode até ser meio exigente, mas quem pode culpá-los, não é? 
 
-Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
+Preparamos um desafio de programação para os fãs da Marvel. Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quiser, porém normalmente você não deve precisar de mais do que algumas horas.
 
-O layout e por sua conta, seja criativo. A arquitetura é por sua conta, seja esperto.
+Utilizamos como referência a API (https://developer.marvel.com/) para facilitar a criação dos campos de quadrinhos (comics)
+
+1. Desenvolver uma aplicação web em Laravel (https://laravel.com/docs/8.x) que contenha:
+
+- Criação de CRUD de quadrinhos (comics)
+- Gerenciamento da API via Passport (https://laravel.com/docs/8.x/passport)
+
+Obs.: Pode ser em Blade mesmo.
+
+a) Filtro para buscar os quadrinho (comics) por title ou id
+
+b) Página com o resultado da busca
+
+c) Ao clicar no resultado da busca, exibir página com detalhes dos quadrinhos (comics) como: (id,title,description,ean,prices,images)
+
+
+Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta, seja esperto.
+
+O layout e por sua conta, seja criativo. 
 
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
 
