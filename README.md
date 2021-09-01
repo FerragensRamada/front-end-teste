@@ -51,16 +51,21 @@ Utilizamos como referência a API (https://developer.marvel.com/) para facilitar
 
 1. Desenvolver uma aplicação web em Laravel (https://laravel.com/docs/8.x) que contenha:
 
-- Criação de CRUD de quadrinhos (comics)
-- Gerenciamento da API via Passport (https://laravel.com/docs/8.x/passport)
+a) Criação de CRUD de quadrinhos (comics);
 
-Obs.: Pode ser em Blade mesmo.
+b) Autenticação simples com email e senha;
 
-a) Filtro para buscar os quadrinho (comics) por title ou id
+c) Filtro para buscar os quadrinho (comics) por title ou id
 
-b) Página com o resultado da busca
+d) Página com o resultado da busca
 
-c) Ao clicar no resultado da busca, exibir página com detalhes dos quadrinhos (comics) como: (id,title,description,ean,prices,images)
+e) Sua aplicação deverá possuir um Command (https://laravel.com/docs/8.x/artisan#writing-commands) que ao ser executado, alimenta a tabela de quadrinhos com os quadrinhos da ultima semana, utilizando a API da marvel via HTTP;
+
+Comportamentos:
+
+* Ao clicar no resultado da busca, exibir página com detalhes dos quadrinhos (comics) como: (id,title,description,ean,prices,images)
+
+OBS: Views podem ser criadas em Blade
 
 
 Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta, seja esperto.
@@ -69,3 +74,10 @@ O layout e por sua conta, seja criativo.
 
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
 
+
+Como realizar a entrega do desafio:
+
+Publicar o projeto no GitHub e enviar o link para rh@ramada.com.br
+
+
+ 
